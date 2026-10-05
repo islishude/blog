@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/solidity-处理智能合约转账的安全辅助函数"
 title: solidity 处理智能合约转账的安全辅助函数
 categories:
   - blockchain

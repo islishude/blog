@@ -1,4 +1,5 @@
 ---
+slug: "linux/LNMP环境搭建最佳实践"
 title: LNMP环境搭建最佳实践
 categories:
   - Linux

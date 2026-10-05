@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-linter-io-ReadFull-不需要判断返回值长度"
 title: 'Go linter: io.ReadFull 不需要判断返回值长度'
 categories:
   - Golang

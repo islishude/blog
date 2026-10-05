@@ -1,4 +1,5 @@
 ---
+slug: "tool/Win10-Chrome播放视频非常卡顿？"
 title: Win10 Chrome播放视频非常卡顿？
 categories:
   - tool

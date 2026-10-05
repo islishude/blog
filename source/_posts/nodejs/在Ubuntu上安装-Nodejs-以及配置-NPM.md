@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/在Ubuntu上安装-Nodejs-以及配置-NPM"
 title: 在Ubuntu上安装 Nodejs 以及配置 NPM
 categories:
   - Node.js

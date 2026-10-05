@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/JS-BigInt-尝鲜"
 title: JS BigInt 尝鲜
 tags:
   - BigInt

@@ -1,4 +1,5 @@
 ---
+slug: "linux/k8s-国内源安装备忘清单"
 title: k8s 国内源安装备忘清单
 categories:
   - Linux

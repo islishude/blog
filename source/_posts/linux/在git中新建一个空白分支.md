@@ -1,4 +1,5 @@
 ---
+slug: "linux/在git中新建一个空白分支"
 title: 在git中新建一个空白分支
 categories:
   - Linux

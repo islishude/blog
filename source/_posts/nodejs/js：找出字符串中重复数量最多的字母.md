@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/js：找出字符串中重复数量最多的字母"
 title: js：找出字符串中重复数量最多的字母
 categories:
   - Node.js

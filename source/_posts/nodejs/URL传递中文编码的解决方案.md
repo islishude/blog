@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/URL传递中文编码的解决方案"
 title: URL传递中文编码的解决方案
 categories:
   - Node.js

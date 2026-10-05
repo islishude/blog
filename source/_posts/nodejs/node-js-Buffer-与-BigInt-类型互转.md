@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/node-js-Buffer-与-BigInt-类型互转"
 title: 'node.js Buffer 与 BigInt 类型互转 '
 categories:
   - Node.js

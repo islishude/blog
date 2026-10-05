@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/使用-Go-进行-Solidity-ABI-编解码"
 title: 使用 Go 进行 Solidity ABI 编解码
 categories:
   - blockchain

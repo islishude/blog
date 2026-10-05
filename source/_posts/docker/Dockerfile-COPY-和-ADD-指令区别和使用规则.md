@@ -1,4 +1,5 @@
 ---
+slug: "docker/Dockerfile-COPY-和-ADD-指令区别和使用规则"
 title: Dockerfile COPY 和 ADD 指令区别和使用规则
 categories:
   - docker

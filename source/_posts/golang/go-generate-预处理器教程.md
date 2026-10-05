@@ -1,4 +1,5 @@
 ---
+slug: "golang/go-generate-预处理器教程"
 title: go generate 预处理器教程
 categories:
   - Golang

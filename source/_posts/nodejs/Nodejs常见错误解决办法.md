@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/Nodejs常见错误解决办法"
 title: Node.js 常见错误解决方式
 categories:
   - Node.js

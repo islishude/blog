@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/solidity-判断目标地址是否为合约地址的两种方法"
 title: 'solidity: 判断目标地址是否为合约地址的两种方法'
 categories:
   - blockchain

@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/for-const-num-of-list-为什么可以运行？"
 title: for(const num of list) 为什么可以运行？
 categories:
   - Node.js

@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/推荐使用yarn包管理工具替代npm"
 title: 推荐使用yarn包管理工具替代npm
 categories:
   - Node.js

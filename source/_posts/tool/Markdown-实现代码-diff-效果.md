@@ -1,4 +1,5 @@
 ---
+slug: "tool/Markdown-实现代码-diff-效果"
 title: Markdown 实现代码 diff 效果
 categories:
   - tool

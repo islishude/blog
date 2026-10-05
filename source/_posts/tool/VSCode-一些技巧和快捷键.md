@@ -1,4 +1,5 @@
 ---
+slug: "tool/VSCode-一些技巧和快捷键"
 title: VSCode一些技巧和快捷键
 categories:
   - tool

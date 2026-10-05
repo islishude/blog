@@ -1,4 +1,5 @@
 ---
+slug: "linux/Linux-在终端下输入密码时显示星号提示符"
 title: '[Linux]在终端下输入密码时显示星号提示符'
 categories:
   - Linux

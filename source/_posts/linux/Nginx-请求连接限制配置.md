@@ -1,4 +1,5 @@
 ---
+slug: "linux/Nginx-请求连接限制配置"
 title: Nginx 请求连接限制配置
 categories:
   - Linux

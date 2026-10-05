@@ -1,4 +1,5 @@
 ---
+slug: "tool/VSCode-代码风格自动校验和格式化清单"
 title: VSCode代码风格自动校验和格式化清单
 categories:
   - tool

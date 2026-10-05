@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/solidity-v0-5-0-主要破坏性更新示例"
 layout: blockchain
 title: solidity v0.5.0 主要破坏性更新示例
 date: 2019-01-30 10:08:29

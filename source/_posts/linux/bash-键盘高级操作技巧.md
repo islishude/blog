@@ -1,4 +1,5 @@
 ---
+slug: "linux/bash-键盘高级操作技巧"
 title: bash 键盘高级操作技巧
 categories:
   - Linux

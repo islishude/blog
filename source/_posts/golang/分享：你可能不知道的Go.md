@@ -1,4 +1,5 @@
 ---
+slug: "golang/分享：你可能不知道的Go"
 title: 分享：你可能不知道的Go
 categories:
   - Golang

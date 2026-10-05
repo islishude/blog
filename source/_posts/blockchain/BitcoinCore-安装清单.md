@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/BitcoinCore-安装清单"
 layout: blockchain
 title: BitcoinCore 安装清单
 categories:

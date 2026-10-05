@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/用-JS-和-Go-来实现中英文简单排版"
 title: 用 JS 和 Go 来实现中英文简单排版
 categories:
   - Node.js

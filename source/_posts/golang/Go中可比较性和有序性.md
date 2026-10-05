@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go中可比较性和有序性"
 title: Go中可比较性和有序性
 categories:
   - Golang

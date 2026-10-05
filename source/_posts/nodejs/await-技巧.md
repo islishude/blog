@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/await-技巧"
 title: await 技巧
 categories:
   - Node.js

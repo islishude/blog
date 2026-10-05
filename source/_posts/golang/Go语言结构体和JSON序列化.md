@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go语言结构体和JSON序列化"
 title: Go语言结构体和JSON序列化
 categories:
   - Golang

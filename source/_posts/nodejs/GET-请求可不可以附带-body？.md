@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/GET-请求可不可以附带-body？"
 title: GET 请求可不可以附带 body？
 categories:
   - Node.js

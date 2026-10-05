@@ -1,4 +1,5 @@
 ---
+slug: "rust/Rust-中的-From-和-Into-trait"
 title: Rust 中的 From 和 Into trait
 categories:
   - rust

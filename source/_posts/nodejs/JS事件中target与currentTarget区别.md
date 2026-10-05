@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/JS事件中target与currentTarget区别"
 title: JS事件中target与currentTarget区别
 categories:
   - Node.js

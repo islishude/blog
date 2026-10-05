@@ -1,4 +1,5 @@
 ---
+slug: "linux/在-Ubuntu-上安装-Docker"
 title: 在 Ubuntu 上安装 Docker
 categories:
   - Linux

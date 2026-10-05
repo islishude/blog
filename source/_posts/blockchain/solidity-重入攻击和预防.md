@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/solidity-重入攻击和预防"
 title: solidity 重入攻击和预防
 categories:
   - blockchain

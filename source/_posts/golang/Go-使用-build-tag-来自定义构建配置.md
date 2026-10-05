@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-使用-build-tag-来自定义构建配置"
 title: 'Go: 使用 build tag 来自定义构建配置'
 categories:
   - Golang

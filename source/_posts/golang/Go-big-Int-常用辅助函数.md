@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-big-Int-常用辅助函数"
 title: 'Go: big.Int 常用辅助函数'
 categories:
   - Golang

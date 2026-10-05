@@ -1,4 +1,5 @@
 ---
+slug: "linux/Ubuntu新建用户并赋予权限清单"
 title: Ubuntu新建用户并赋予权限清单
 categories:
   - Linux

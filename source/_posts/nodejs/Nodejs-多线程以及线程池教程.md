@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/Nodejs-多线程以及线程池教程"
 title: Nodejs 多线程以及线程池教程
 categories:
   - Node.js

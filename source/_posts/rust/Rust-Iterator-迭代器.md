@@ -1,4 +1,5 @@
 ---
+slug: "rust/Rust-Iterator-迭代器"
 title: Rust Iterator 迭代器
 categories:
   - rust

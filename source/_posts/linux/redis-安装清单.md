@@ -1,4 +1,5 @@
 ---
+slug: "linux/redis-安装清单"
 title: 'redis 安装清单 '
 categories:
   - Linux

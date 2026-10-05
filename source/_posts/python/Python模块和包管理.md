@@ -1,4 +1,5 @@
 ---
+slug: "python/Python模块和包管理"
 layout: python
 title: Python模块和包管理
 date: 2019-06-29 09:52:57

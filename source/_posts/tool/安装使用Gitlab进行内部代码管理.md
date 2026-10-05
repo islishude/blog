@@ -1,4 +1,5 @@
 ---
+slug: "tool/安装使用Gitlab进行内部代码管理"
 title: 安装使用Gitlab进行内部代码管理
 categories:
   - tool

@@ -1,4 +1,5 @@
 ---
+slug: "tool/在Git中仅仅改变文件名称的大小写不被追踪的解决方式"
 title: 在Git中仅仅改变文件名称的大小写不被追踪的解决方式
 categories:
   - tool

@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-无文件引入配置到构建程序"
 title: Go 无文件引入配置到构建程序
 categories:
   - Golang

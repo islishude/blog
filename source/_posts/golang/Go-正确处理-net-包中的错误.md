@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-正确处理-net-包中的错误"
 title: 'Go: 正确处理 net 包中的错误'
 categories:
   - Golang

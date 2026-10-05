@@ -1,4 +1,5 @@
 ---
+slug: "golang/最简单的方式使用最新开发分支的Golang编译器"
 title: 最简单的方式使用最新开发分支的Golang编译器
 categories:
   - Golang

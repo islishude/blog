@@ -1,4 +1,5 @@
 ---
+slug: "database/mongodb-update-策略"
 layout: mongodb
 title: mongodb update 策略
 categories:

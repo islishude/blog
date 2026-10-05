@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/理解ES6中的字符串和数值解构赋值"
 title: 理解ES6中的字符串和数值解构赋值
 categories:
   - Node.js

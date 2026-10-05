@@ -1,4 +1,5 @@
 ---
+slug: "golang/翻译-Go-switch-关键字"
 title: '[翻译] Go switch 关键字'
 categories:
   - Golang

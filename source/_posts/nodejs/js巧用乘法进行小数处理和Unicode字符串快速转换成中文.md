@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/js巧用乘法进行小数处理和Unicode字符串快速转换成中文"
 title: js巧用乘法进行小数处理和Unicode字符串快速转换成中文
 categories:
   - Node.js

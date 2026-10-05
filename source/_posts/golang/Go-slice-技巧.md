@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-slice-技巧"
 title: Go slice 技巧
 categories:
   - Golang

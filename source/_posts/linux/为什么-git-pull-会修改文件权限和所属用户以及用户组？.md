@@ -1,4 +1,5 @@
 ---
+slug: "linux/为什么-git-pull-会修改文件权限和所属用户以及用户组？"
 title: 为什么 git pull 会修改文件权限和所属用户以及用户组？
 categories:
   - Node.js

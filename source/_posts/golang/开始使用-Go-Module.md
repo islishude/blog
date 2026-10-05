@@ -1,4 +1,5 @@
 ---
+slug: "golang/开始使用-Go-Module"
 title: 开始使用 Go Module
 categories:
   - Golang

@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/理解-JS-作用域和-this"
 title: 理解 JS 作用域和 this
 categories:
   - Node.js

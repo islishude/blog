@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/19-个-JavaScript-常用的简写技术"
 title: 19 个 JavaScript 常用的简写技术
 categories:
   - Node.js

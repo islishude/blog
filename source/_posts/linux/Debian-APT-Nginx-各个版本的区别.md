@@ -1,4 +1,5 @@
 ---
+slug: "linux/Debian-APT-Nginx-各个版本的区别"
 title: Debian APT Nginx 各个版本的区别
 categories:
   - Linux

@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-语言延迟调用和错误处理"
 title: Go 语言延迟调用和错误处理
 categories:
   - Golang

@@ -1,4 +1,5 @@
 ---
+slug: "linux/证书中CommonName和SubjectAlternativeName"
 title: 证书中CommonName和SubjectAlternativeName
 categories:
   - Linux

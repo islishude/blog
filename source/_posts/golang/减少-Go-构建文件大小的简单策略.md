@@ -1,4 +1,5 @@
 ---
+slug: "golang/减少-Go-构建文件大小的简单策略"
 title: 减少 Go 构建文件大小的简单策略
 categories:
   - Golang

@@ -1,4 +1,5 @@
 ---
+slug: "crypto/age：一个现代化的加密工具"
 title: age：一个现代化的加密工具
 categories:
   - crypto

@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/使用以太坊-CREATE2-操作码实现在线支付系统"
 title: '使用以太坊 CREATE2 操作码实现在线支付系统 '
 categories:
   - blockchain

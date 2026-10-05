@@ -1,4 +1,5 @@
 ---
+slug: "tool/一些Mac的使用技巧"
 title: '一些Mac的使用技巧 '
 categories:
   - tool

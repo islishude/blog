@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/理解-Promise"
 title: 理解 Promise
 categories:
   - Node.js

@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/js生成随机字符串以及任意范围的数字"
 title: js生成随机字符串以及任意范围的数字
 categories:
   - Node.js

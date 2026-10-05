@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/十行代码将-Nodejs-fs-模块转换无回调（promisify）形式"
 title: 十行代码将 Nodejs fs 模块转换无回调（promisify）形式
 categories:
   - Node.js

@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/不常见的-NPM-包管理技巧"
 title: 不常见的 NPM 包管理技巧
 tags:
   - Node.js

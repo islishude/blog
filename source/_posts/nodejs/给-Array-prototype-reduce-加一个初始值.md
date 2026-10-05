@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/给-Array-prototype-reduce-加一个初始值"
 title: 给 Array.prototype.reduce() 加一个初始值
 categories:
   - Node.js

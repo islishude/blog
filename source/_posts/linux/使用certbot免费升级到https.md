@@ -1,4 +1,5 @@
 ---
+slug: "linux/使用certbot免费升级到https"
 title: 使用certbot免费升级到https
 categories:
   - Linux

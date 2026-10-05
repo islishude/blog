@@ -1,4 +1,5 @@
 ---
+slug: "linux/初始化-Ubuntu-Server-清单"
 title: 初始化 Ubuntu Server 清单
 categories:
   - Linux

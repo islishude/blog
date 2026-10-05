@@ -1,4 +1,5 @@
 ---
+slug: "tool/一些常用-github-协作术语"
 title: 一些常用 github 协作术语
 categories:
   - tool

@@ -1,4 +1,5 @@
 ---
+slug: "linux/使用-Docker-安装-gitlab"
 title: 使用 Docker 安装 gitlab
 categories:
   - Linux

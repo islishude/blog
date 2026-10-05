@@ -1,4 +1,5 @@
 ---
+slug: "database/MySQL-upsert操作"
 title: MySQL upsert操作
 categories:
   - database

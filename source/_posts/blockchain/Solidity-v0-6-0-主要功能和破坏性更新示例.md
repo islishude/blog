@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/Solidity-v0-6-0-主要功能和破坏性更新示例"
 title: Solidity v0.6.0 主要功能和破坏性更新示例
 categories:
   - blockchain

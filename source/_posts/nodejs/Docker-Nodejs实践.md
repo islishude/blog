@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/Docker-Nodejs实践"
 title: Docker+Nodejs实践
 categories:
   - Node.js

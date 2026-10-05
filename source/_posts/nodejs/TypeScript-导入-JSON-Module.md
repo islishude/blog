@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/TypeScript-导入-JSON-Module"
 title: "TypeScript 导入 JSON Module"
 date: 2018-05-19 21:15:26
 tags: 

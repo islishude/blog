@@ -1,4 +1,5 @@
 ---
+slug: "linux/Linux下解决修改文件权限引起的Git记录文件变化问题"
 title: Linux下解决修改文件权限引起的Git记录文件变化问题
 categories:
   - Linux

@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-声明即初始化"
 title: 'Go: 声明即初始化'
 categories:
   - Golang

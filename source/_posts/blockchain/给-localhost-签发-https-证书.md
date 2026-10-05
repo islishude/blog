@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/给-localhost-签发-https-证书"
 title: 给 localhost 签发 https 证书
 categories:
   - tool

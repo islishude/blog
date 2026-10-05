@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-一个-JSON-切分成两个对象"
 title: 'Go: 一个 JSON 切分成两个对象'
 categories:
   - Golang

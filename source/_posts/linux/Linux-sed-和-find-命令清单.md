@@ -1,4 +1,5 @@
 ---
+slug: "linux/Linux-sed-和-find-命令清单"
 title: Linux sed 和 find 命令清单
 categories:
   - Linux

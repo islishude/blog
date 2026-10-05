@@ -1,4 +1,5 @@
 ---
+slug: "linux/ITerm2-技巧"
 title: ITerm2 技巧
 categories:
   - Linux

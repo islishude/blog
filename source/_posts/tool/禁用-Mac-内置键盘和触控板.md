@@ -1,4 +1,5 @@
 ---
+slug: "tool/禁用-Mac-内置键盘和触控板"
 title: 禁用 Mac 内置键盘和触控板
 categories:
   - tool

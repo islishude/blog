@@ -1,4 +1,5 @@
 ---
+slug: "database/MySQL-默认忽略内联外键定义的坑"
 title: MySQL 默认忽略内联外键定义的坑
 categories:
   - database

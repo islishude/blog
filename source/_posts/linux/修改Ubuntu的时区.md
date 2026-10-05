@@ -1,4 +1,5 @@
 ---
+slug: "linux/修改Ubuntu的时区"
 title: 修改Ubuntu的时区
 categories:
   - Linux

@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/获取以太坊交易被Revert的原因"
 title: 获取以太坊交易被Revert的原因
 categories:
   - blockchain

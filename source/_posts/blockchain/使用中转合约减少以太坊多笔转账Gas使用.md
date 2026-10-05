@@ -1,4 +1,5 @@
 ---
+slug: "blockchain/使用中转合约减少以太坊多笔转账Gas使用"
 title: 使用中转合约减少以太坊多笔转账Gas使用
 categories:
   - blockchain

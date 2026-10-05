@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-显式声明某个类型实现了一个接口"
 title: 'Go: 显式声明某个类型实现了一个接口'
 categories:
   - Golang

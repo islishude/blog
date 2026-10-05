@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-判断空字符串的性能比较"
 title: 'Go: 判断空字符串的性能比较'
 categories:
   - Golang

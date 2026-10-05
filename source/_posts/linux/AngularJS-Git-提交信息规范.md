@@ -1,4 +1,5 @@
 ---
+slug: "linux/AngularJS-Git-提交信息规范"
 title: AngularJS Git 提交信息规范
 categories:
   - Linux

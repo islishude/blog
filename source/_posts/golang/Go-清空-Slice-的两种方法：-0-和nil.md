@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-清空-Slice-的两种方法：-0-和nil"
 title: 'Go: 清空 Slice 的两种方法：[:0]和nil'
 categories:
   - Golang

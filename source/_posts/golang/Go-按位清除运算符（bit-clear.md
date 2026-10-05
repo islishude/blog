@@ -1,4 +1,5 @@
 ---
+slug: "golang/Go-按位清除运算符（bit-clear"
 title: 'Go: 按位清除运算符（bit clear)'
 categories:
   - Golang

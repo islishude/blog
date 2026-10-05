@@ -1,4 +1,5 @@
 ---
+slug: "tool/vscode-go-设置-lint-不强制检查对包公开类型是否注释"
 layout: tools
 title: vscode-go 设置 lint 不强制检查对包公开类型是否注释
 date: 2019-03-15 10:58:50

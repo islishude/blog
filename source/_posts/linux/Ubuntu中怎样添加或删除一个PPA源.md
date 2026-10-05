@@ -1,4 +1,5 @@
 ---
+slug: "linux/Ubuntu中怎样添加或删除一个PPA源"
 title: Ubuntu中怎样添加或删除一个PPA源
 categories:
   - Linux

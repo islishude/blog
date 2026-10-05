@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/使用-Object-create-null-代替大括号生成（-）对象"
 title: '使用 Object.create(null) 代替大括号生成（{}）对象'
 categories:
   - Node.js

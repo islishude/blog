@@ -1,4 +1,5 @@
 ---
+slug: "tool/Chrome-已经原生支持截图功能，还可以给节点截图"
 title: Chrome 已经原生支持截图功能，还可以给节点截图
 categories:
   - Node.js

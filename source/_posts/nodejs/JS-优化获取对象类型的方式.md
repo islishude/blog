@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/JS-优化获取对象类型的方式"
 title: JS 优化获取对象类型的方式
 categories:
   - Node.js

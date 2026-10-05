@@ -1,4 +1,5 @@
 ---
+slug: "linux/nginx-user-模块详解"
 title: nginx user 模块详解
 categories:
   - Linux

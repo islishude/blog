@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/Node-js-Console-颜色清单"
 title: Node.js Console 颜色清单
 categories:
   - Node.js

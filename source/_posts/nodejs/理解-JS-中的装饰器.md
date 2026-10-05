@@ -1,4 +1,5 @@
 ---
+slug: "nodejs/理解-JS-中的装饰器"
 title: 理解 JS 中的装饰器
 categories:
   - Node.js
