@@ -19,7 +19,7 @@
     "@astrojs/rss": "4.0.19",
     "@astrojs/sitemap": "3.7.3",
     "@tailwindcss/vite": "4.3.2",
-    "astro": "7.3.5",
+    "astro": "7.4.4",
     "dayjs": "1.11.21",
     "gray-matter": "4.0.3",
     "lodash.kebabcase": "4.1.1",
