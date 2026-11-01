@@ -37,7 +37,7 @@
     "@shikijs/transformers": "4.5.0",
     "@tailwindcss/typography": "0.5.20",
     "@types/lodash.kebabcase": "4.1.9",
-    "@typescript-eslint/parser": "8.62.0",
+    "@typescript-eslint/parser": "8.72.1",
     "eslint": "10.6.0",
     "eslint-plugin-astro": "2.1.1",
     "pagefind": "1.5.2",
